@@ -1,6 +1,7 @@
 ## Chapter06
 
 - Toc
+    - [2.] `인스턴스의 생성과 사용`
     - [3.8]`기본형매개변수와 참조형매개변수`
       - `Privimitive_n_Reference_ParamEx.java` : `264 ~268page`
       - `ReferenceParamEx2` : `266page`
@@ -20,4 +21,4 @@
       - `CarTest2.java ( 296page)` : 생성자간 호출
       - `CarTest3.java (298~299 Page)` : 생성자를 이용한 인스턴스의 복사
     - [6.] `초기화 블럭`
-      - 
+      
