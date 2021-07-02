@@ -49,3 +49,5 @@ Chapter06/_2v/TvTest3.java
 Chapter06/_3v/CarTest.java
  Chapter06._3v.CarTest
  Chapter06._3v.Card
+Example/practice01.java
+ Example.practice01
