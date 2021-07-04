@@ -66,3 +66,19 @@ Chapter14/LambdaEx1.java
  Chapter14.LambdaEx1
  Chapter14.LambdaEx1$1
  Chapter14.MyLambda01
+Chapter14/LambdaEx4.java
+ Chapter14.LambdaEx4
+Chapter14/LambdaEx5.java
+ Chapter14.LambdaEx5
+Chapter14/LambdaEtc05.java
+ Chapter14.LambdaEtc05
+Chapter14/LambdaEx6.java
+ Chapter14.LambdaEx6
+Chapter14/Notepad809page.java
+ Chapter14.Notepad809page
+Chapter14/Notepad810page.java
+ Chapter14.Notepad810page
+Chapter14/LambdaEx7.java
+ Chapter14.LambdaEx7
+Chapter14/StreamNotepad.java
+ Chapter14.StreamNotepad
