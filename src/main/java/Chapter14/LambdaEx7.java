@@ -7,10 +7,15 @@ import java.util.function.Predicate;
 public class LambdaEx7 {
     public static void main(String[] args) {
 
+        // 이 함수는 String을 받아서 Integer로 결과를 바꿈
         Function<String, Integer> f = (s) -> Integer.parseInt(s, 16);
+
+        // 이 함수는 Integer를 받아서 String으로 결과를 바꿈
         Function<Integer, String> g = (i) -> Integer.toBinaryString(i);
 
+        // g(f(x))
         Function<String, String> h = f.andThen(g);
+        // f(g(x))
         Function<Integer, Integer> h2 = f.compose(g);
 
         System.out.println(h.apply("FF"));

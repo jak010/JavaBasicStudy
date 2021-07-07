@@ -1,6 +1,9 @@
-Chapter06/_3v/CarTest.java
- Chapter06._3v.CarTest
- Chapter06._3v.Card
+Chapter14/LambdaEx4.java
+ Chapter14.LambdaEx4
+Chapter14/LambdaEx7.java
+ Chapter14.LambdaEx7
+Chapter14/StreamNotepad.java
+ Chapter14.StreamNotepad
 Chapter06/_6v/ProductTest.java
  Chapter06._6v.Product
  Chapter06._6v.ProductTest
@@ -12,15 +15,12 @@ Chapter06/_6v/DocumentTest.java
 Chapter06/_3v9/ReferenceReturnEx.java
  main.java.Chapter06._3v9.Data
  main.java.Chapter06._3v9.ReferenceReturnEx
-Chapter06/_5v/CarTest.java
- Chapter06._5v.Car
- Chapter06._5v.CarTest
-Chapter14/LambdaEx00.java
- Chapter14.LambdaEx00
- Chapter14.MyFunction
-Chapter06/_2v/TvTesst.java
- Chapter06._2v.Tv
- Chapter06._2v.TvTesst
+Chapter14/LambdaEx1.java
+ Chapter14.LambdaEx1
+ Chapter14.LambdaEx1$1
+ Chapter14.MyLambda01
+Chapter14/Notepad809page.java
+ Chapter14.Notepad809page
 Chapter06/Primitive_n_Reference_ParamEx.java
  Chapter06.Data
  Chapter06.Primitive_n_Reference_ParamEx
@@ -32,6 +32,38 @@ Chapter06/_6v/BlockTest.java
 Chapter06/_5v/CarTest2.java
  Chapter06._5v.Car02
  Chapter06._5v.CarTest2
+Chapter14/LambdaEx3.java
+ Chapter14.LambdaEx3
+ Chapter14.MyLambdaEx3
+ Chapter14.Outer
+ Chapter14.Outer$Inner
+Chapter06/_4v/VarArgsEx.java
+ Chapter06._4v.VarArgsEx
+Chapter06/_2v/TvTest3.java
+ Chapter06._2v.Tv03
+ Chapter06._2v.TvTest3
+Chapter06/_6v/StaticBlockTest.java
+ Chapter06._6v.StaticBlockTest
+Chapter06/_3v/CarTest.java
+ Chapter06._3v.CarTest
+ Chapter06._3v.Card
+Chapter14/LambdaEx00.java
+ Chapter14.LambdaEx00
+ Chapter14.MyFunction
+Chapter14/SteamExampls/SteamNote01.java
+ Chapter14.SteamExampls.SteamNote01
+Chapter06/_5v/CarTest.java
+ Chapter06._5v.Car
+ Chapter06._5v.CarTest
+Chapter14/LambdaEx6.java
+ Chapter14.LambdaEx6
+Chapter06/_2v/TvTesst.java
+ Chapter06._2v.Tv
+ Chapter06._2v.TvTesst
+Chapter14/Notepad810page.java
+ Chapter14.Notepad810page
+Chapter14/LambdaEtc05.java
+ Chapter14.LambdaEtc05
 Chapter06/_2v/TvTest2.java
  Chapter06._2v.Tv02
  Chapter06._2v.TvTest2
@@ -44,41 +76,26 @@ Chapter06/_5v/ConstructorTest.java
 Chapter06/_4v/OverloadingTest.java
  Chapter06._4v.MyMath3
  Chapter06._4v.OverloadingTest
-Chapter06/_4v/VarArgsEx.java
- Chapter06._4v.VarArgsEx
-Chapter06/_2v/TvTest3.java
- Chapter06._2v.Tv03
- Chapter06._2v.TvTest3
 Chapter06/_5v/CarTest3.java
  Chapter06._5v.Car03
  Chapter06._5v.CarTest3
-Chapter06/_6v/StaticBlockTest.java
- Chapter06._6v.StaticBlockTest
-Chapter14/LambdaEx3.java
- Chapter14.LambdaEx3
- Chapter14.MyLambdaEx3
- Chapter14.Outer
- Chapter14.Outer$Inner
+Chapter14/SteamExampls/StreamNote04.java
+ Chapter14.SteamExampls.StreamNote04
+Chapter14/LambdaEx5.java
+ Chapter14.LambdaEx5
+Chapter14/SteamExampls/StreamNote02.java
+ Chapter14.SteamExampls.StreamNote02
+Chapter14/SteamExampls/StreamEx826page.java
+ Chapter14.SteamExampls.StreamEx826page
+ Chapter14.SteamExampls.Student
+Chapter14/SteamExampls/StreamEx2.java
+ Chapter14.SteamExampls.StreamEx2
+Chapter14/SteamExampls/StreamNote03.java
+ Chapter14.SteamExampls.StreamNote03
 Chapter14/LambdaEx2.java
  Chapter14.LambdaEx2
  Chapter14.MyLambdaEx2
-Chapter14/LambdaEx1.java
- Chapter14.LambdaEx1
- Chapter14.LambdaEx1$1
- Chapter14.MyLambda01
-Chapter14/LambdaEx4.java
- Chapter14.LambdaEx4
-Chapter14/LambdaEx5.java
- Chapter14.LambdaEx5
-Chapter14/LambdaEtc05.java
- Chapter14.LambdaEtc05
-Chapter14/LambdaEx6.java
- Chapter14.LambdaEx6
-Chapter14/Notepad809page.java
- Chapter14.Notepad809page
-Chapter14/Notepad810page.java
- Chapter14.Notepad810page
-Chapter14/LambdaEx7.java
- Chapter14.LambdaEx7
-Chapter14/StreamNotepad.java
- Chapter14.StreamNotepad
+Chapter14/lambdaExGroup/LambdaEx01.java
+ Chapter14.lambdaExGroup.LambdaEx01
+ Chapter14.lambdaExGroup.MyFuncionEx03
+ Chapter14.lambdaExGroup.MyFunctionEx01
