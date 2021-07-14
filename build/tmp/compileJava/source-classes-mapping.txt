@@ -1,7 +1,9 @@
 Chapter14/LambdaEx4.java
  Chapter14.LambdaEx4
-Chapter14/LambdaEx7.java
- Chapter14.LambdaEx7
+Chapter14/lambdaExGroup/LambdaEx01.java
+ Chapter14.lambdaExGroup.LambdaEx01
+ Chapter14.lambdaExGroup.MyFuncionEx03
+ Chapter14.lambdaExGroup.MyFunctionEx01
 Chapter14/StreamNotepad.java
  Chapter14.StreamNotepad
 Chapter06/_6v/ProductTest.java
@@ -95,7 +97,30 @@ Chapter14/SteamExampls/StreamNote03.java
 Chapter14/LambdaEx2.java
  Chapter14.LambdaEx2
  Chapter14.MyLambdaEx2
-Chapter14/lambdaExGroup/LambdaEx01.java
- Chapter14.lambdaExGroup.LambdaEx01
- Chapter14.lambdaExGroup.MyFuncionEx03
- Chapter14.lambdaExGroup.MyFunctionEx01
+Chapter09/EqualsEx1.java
+ Chapter09.EqualsEx1
+ Chapter09.Value
+Chapter14/LambdaEx7.java
+ Chapter14.LambdaEx7
+Chapter09/equalsEx2.java
+ Chapter09.Person
+ Chapter09.equalsEx2
+Chapter09/HashCodeEx1.java
+ Chapter09.HashCodeEx1
+Chapter09/CardToString.java
+ Chapter09.Card
+ Chapter09.CardToString
+Chapter09/toStringTest.java
+ Chapter09.toStringTest
+Chapter09/CardToString2.java
+ Chapter09.Card02
+ Chapter09.CardToString2
+Chapter09/CloneEx1.java
+ Chapter09.CloneEx1
+ Chapter09.Point
+Chapter09/CloneEx2.java
+ Chapter09.CloneEx2
+Chapter09/ShallowDeepCopy.java
+ Chapter09.Circle
+ Chapter09.Point02
+ Chapter09.ShallowDeepCopy
