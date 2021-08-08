@@ -175,3 +175,10 @@ Chapter12/EnumsPractice/EnumEx1.java
 Chapter12/EnumsPractice/EnumEx2.java
  Chapter12.EnumsPractice.DirectionEx02
  Chapter12.EnumsPractice.EnumEx2
+Chapter12/EnumsPractice/EnumEx3.java
+ Chapter12.EnumsPractice.EnumEx3
+ Chapter12.EnumsPractice.Transportation
+ Chapter12.EnumsPractice.Transportation$1
+ Chapter12.EnumsPractice.Transportation$2
+ Chapter12.EnumsPractice.Transportation$3
+ Chapter12.EnumsPractice.Transportation$4
