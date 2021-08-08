@@ -22,6 +22,10 @@ Chapter09/ShallowDeepCopy.java
 Chapter09/CardToString.java
  Chapter09.Card
  Chapter09.CardToString
+Chapter12/Chapter12Example01.java
+ Chapter12.Box
+ Chapter12.Chapter12Example01
+ Chapter12.GenericBox
 Chapter06/_6v/BlockTest.java
  Chapter06._6v.BlockTest
 Chapter14/LambdaEx3.java
@@ -88,6 +92,9 @@ Chapter14/LambdaEx1.java
  Chapter14.MyLambda01
 Chapter14/Notepad809page.java
  Chapter14.Notepad809page
+Chapter09/CloneEx1.java
+ Chapter09.CloneEx1
+ Chapter09.Point
 Chapter06/Primitive_n_Reference_ParamEx.java
  Chapter06.Data
  Chapter06.Primitive_n_Reference_ParamEx
@@ -104,6 +111,14 @@ Chapter10/CalendarEx2.java
 Chapter06/_2v/TvTest3.java
  Chapter06._2v.Tv03
  Chapter06._2v.TvTest3
+Chapter12/FruitBoxEx2.java
+ Chapter12.AppleEx02
+ Chapter12.Eatable
+ Chapter12.FruitBox
+ Chapter12.FruitBoxEx2
+ Chapter12.FruitEx02
+ Chapter12.GrapeEx02
+ Chapter12.ToyEx02
 Chapter06/_3v/CarTest.java
  Chapter06._3v.CarTest
  Chapter06._3v.Card
@@ -116,6 +131,13 @@ Chapter14/LambdaEx6.java
 Chapter06/_2v/TvTesst.java
  Chapter06._2v.Tv
  Chapter06._2v.TvTesst
+Chapter12/FruitBoxEx1.java
+ Chapter12.Apple
+ Chapter12.Fruit
+ Chapter12.FruitBoxEx1
+ Chapter12.GenericBoxExample
+ Chapter12.Grape
+ Chapter12.Toy
 Chapter06/_2v/TvTest2.java
  Chapter06._2v.Tv02
  Chapter06._2v.TvTest2
@@ -127,17 +149,29 @@ Chapter06/_4v/OverloadingTest.java
 Chapter09/CardToString2.java
  Chapter09.Card02
  Chapter09.CardToString2
-Chapter09/CloneEx1.java
- Chapter09.CloneEx1
- Chapter09.Point
-Chapter12/Chapter12Example01.java
- Chapter12.Box
- Chapter12.Chapter12Example01
- Chapter12.GenericBox
-Chapter12/FruitBoxEx1.java
- Chapter12.Apple
- Chapter12.Fruit
- Chapter12.FruitBoxEx1
- Chapter12.GenericBoxExample
- Chapter12.Grape
- Chapter12.Toy
+Chapter12/FruitBoxEx03.java
+ Chapter12.AppleEx03
+ Chapter12.ExBox3
+ Chapter12.FruitBoxEx03
+ Chapter12.FruitBoxExample03
+ Chapter12.FruitEx03
+ Chapter12.GrapeEx03
+ Chapter12.Juice
+ Chapter12.Juicer
+Chapter12/FruitBoxEx04.java
+ Chapter12.AppleComp
+ Chapter12.AppleEx4
+ Chapter12.BoxEx4
+ Chapter12.FruitBoxEx04
+ Chapter12.FruitBoxEx4
+ Chapter12.FruitComp
+ Chapter12.FruitEx4
+ Chapter12.GrapeComp
+ Chapter12.GrapeEx4
+Chapter12/EnumsPractice/EnumEx1.java
+ Chapter12.EnumsPractice.Direction
+ Chapter12.EnumsPractice.EnumEx1
+ Chapter12.EnumsPractice.EnumEx1$1
+Chapter12/EnumsPractice/EnumEx2.java
+ Chapter12.EnumsPractice.DirectionEx02
+ Chapter12.EnumsPractice.EnumEx2
