@@ -33,8 +33,18 @@ Chapter14/LambdaEx3.java
  Chapter14.MyLambdaEx3
  Chapter14.Outer
  Chapter14.Outer$Inner
+Chapter12/GenericExample/GenericNotepad2.java
+ Chapter12.GenericExample.GenericNotepad2
+ Chapter12.GenericExample.GenericTest
 Chapter06/_4v/VarArgsEx.java
  Chapter06._4v.VarArgsEx
+Chapter12/GenericExample/FruitBoxEx1.java
+ Chapter12.GenericExample.Apple
+ Chapter12.GenericExample.Box1
+ Chapter12.GenericExample.Fruit
+ Chapter12.GenericExample.FruitBoxEx1
+ Chapter12.GenericExample.Grape
+ Chapter12.GenericExample.Toy
 Chapter06/_6v/StaticBlockTest.java
  Chapter06._6v.StaticBlockTest
 Chapter10/CalendarEx1.java
@@ -43,9 +53,6 @@ Chapter12/EnumsPractice/EnumEx1.java
  Chapter12.EnumsPractice.Direction
  Chapter12.EnumsPractice.EnumEx1
  Chapter12.EnumsPractice.EnumEx1$1
-Chapter09/CloneEx1.java
- Chapter09.CloneEx1
- Chapter09.Point
 Chapter14/LambdaEx00.java
  Chapter14.LambdaEx00
  Chapter14.MyFunction
@@ -53,6 +60,15 @@ Chapter14/lambdaExGroup/LambdaEx01.java
  Chapter14.lambdaExGroup.LambdaEx01
  Chapter14.lambdaExGroup.MyFuncionEx03
  Chapter14.lambdaExGroup.MyFunctionEx01
+Chapter12/GenericExample/FruitBoxEx2.java
+ Chapter12.GenericExample.Apple2
+ Chapter12.GenericExample.Box2
+ Chapter12.GenericExample.Eatable
+ Chapter12.GenericExample.Fruit2
+ Chapter12.GenericExample.FruitBox2
+ Chapter12.GenericExample.FruitBoxEx2
+ Chapter12.GenericExample.Grape2
+ Chapter12.GenericExample.Toy2
 Chapter14/Notepad810page.java
  Chapter14.Notepad810page
 Chapter09/equalsEx2.java
@@ -66,6 +82,9 @@ Chapter10/Notepad.java
  Chapter10.Notepad
 Chapter14/LambdaEtc05.java
  Chapter14.LambdaEtc05
+Chapter12/GenericExample/GenericNotepad.java
+ Chapter12.GenericExample.GenericNotepad
+ Chapter12.GenericExample.MyGenericBox
 Chapter06/_5v/ConstructorTest.java
  Chapter06._5v.ConstructorTest
  Chapter06._5v.Data1
@@ -93,6 +112,15 @@ Chapter06/_6v/DocumentTest.java
 Chapter06/_3v9/ReferenceReturnEx.java
  main.java.Chapter06._3v9.Data
  main.java.Chapter06._3v9.ReferenceReturnEx
+Chapter12/GenericExample/FruitBoxEx3.java
+ Chapter12.GenericExample.Apple3
+ Chapter12.GenericExample.Box3
+ Chapter12.GenericExample.Fruit3
+ Chapter12.GenericExample.FruitBox3
+ Chapter12.GenericExample.FruitBoxEx3
+ Chapter12.GenericExample.Grape3
+ Chapter12.GenericExample.Juice
+ Chapter12.GenericExample.Juicer
 Chapter12/EnumsPractice/EnumEx3.java
  Chapter12.EnumsPractice.EnumEx3
  Chapter12.EnumsPractice.Transportation
@@ -182,9 +210,6 @@ Chapter06/_4v/OverloadingTest.java
 Chapter09/CardToString2.java
  Chapter09.Card02
  Chapter09.CardToString2
-Chapter12/GenericExample/GenericNotepad.java
- Chapter12.GenericExample.GenericNotepad
- Chapter12.GenericExample.MyGenericBox
-Chapter12/GenericExample/GenericNotepad2.java
- Chapter12.GenericExample.GenericNotepad2
- Chapter12.GenericExample.GenericTest
+Chapter09/CloneEx1.java
+ Chapter09.CloneEx1
+ Chapter09.Point
