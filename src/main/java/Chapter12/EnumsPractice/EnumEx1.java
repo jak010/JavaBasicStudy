@@ -1,7 +1,7 @@
 package Chapter12.EnumsPractice;
 
 
-enum Direction {EAST, SOUTH, WEST, NORTH}
+enum Direction {EAST, SOUTH, WEST, NORTH} // 열거형 정의
 
 public class EnumEx1 {
     public static void main(String[] args) {

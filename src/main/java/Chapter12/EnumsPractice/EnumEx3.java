@@ -1,7 +1,7 @@
 package Chapter12.EnumsPractice;
 
 enum Transportation {
-
+    // 2. 각 운송 수단 마다 추상 메소드 fare를 구현함
     BUS(100) {
         int fare(int distance) {
             return distance * BASIC_FARE;
@@ -23,7 +23,7 @@ enum Transportation {
         }
     };
 
-    protected final int BASIC_FARE;
+    protected final int BASIC_FARE; // 3. protected로 해야 각 상수에서 접근 가능
 
     Transportation(int basic_fare) {
         BASIC_FARE = basic_fare;
@@ -33,6 +33,7 @@ enum Transportation {
         return BASIC_FARE;
     }
 
+    // 1. 열거형 안에 추상 메소드를 정의
     abstract int fare(int distance);
 
 }

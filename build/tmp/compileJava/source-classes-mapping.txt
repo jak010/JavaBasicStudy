@@ -39,6 +39,13 @@ Chapter06/_6v/StaticBlockTest.java
  Chapter06._6v.StaticBlockTest
 Chapter10/CalendarEx1.java
  Chapter10.CalendarEx1
+Chapter12/EnumsPractice/EnumEx1.java
+ Chapter12.EnumsPractice.Direction
+ Chapter12.EnumsPractice.EnumEx1
+ Chapter12.EnumsPractice.EnumEx1$1
+Chapter09/CloneEx1.java
+ Chapter09.CloneEx1
+ Chapter09.Point
 Chapter14/LambdaEx00.java
  Chapter14.LambdaEx00
  Chapter14.MyFunction
@@ -86,15 +93,28 @@ Chapter06/_6v/DocumentTest.java
 Chapter06/_3v9/ReferenceReturnEx.java
  main.java.Chapter06._3v9.Data
  main.java.Chapter06._3v9.ReferenceReturnEx
+Chapter12/EnumsPractice/EnumEx3.java
+ Chapter12.EnumsPractice.EnumEx3
+ Chapter12.EnumsPractice.Transportation
+ Chapter12.EnumsPractice.Transportation$1
+ Chapter12.EnumsPractice.Transportation$2
+ Chapter12.EnumsPractice.Transportation$3
+ Chapter12.EnumsPractice.Transportation$4
 Chapter14/LambdaEx1.java
  Chapter14.LambdaEx1
  Chapter14.LambdaEx1$1
  Chapter14.MyLambda01
 Chapter14/Notepad809page.java
  Chapter14.Notepad809page
-Chapter09/CloneEx1.java
- Chapter09.CloneEx1
- Chapter09.Point
+Chapter12/FruitBoxEx03.java
+ Chapter12.AppleEx03
+ Chapter12.ExBox3
+ Chapter12.FruitBoxEx03
+ Chapter12.FruitBoxExample03
+ Chapter12.FruitEx03
+ Chapter12.GrapeEx03
+ Chapter12.Juice
+ Chapter12.Juicer
 Chapter06/Primitive_n_Reference_ParamEx.java
  Chapter06.Data
  Chapter06.Primitive_n_Reference_ParamEx
@@ -119,9 +139,22 @@ Chapter12/FruitBoxEx2.java
  Chapter12.FruitEx02
  Chapter12.GrapeEx02
  Chapter12.ToyEx02
+Chapter12/EnumsPractice/EnumEx2.java
+ Chapter12.EnumsPractice.DirectionEx02
+ Chapter12.EnumsPractice.EnumEx2
 Chapter06/_3v/CarTest.java
  Chapter06._3v.CarTest
  Chapter06._3v.Card
+Chapter12/FruitBoxEx04.java
+ Chapter12.AppleComp
+ Chapter12.AppleEx4
+ Chapter12.BoxEx4
+ Chapter12.FruitBoxEx04
+ Chapter12.FruitBoxEx4
+ Chapter12.FruitComp
+ Chapter12.FruitEx4
+ Chapter12.GrapeComp
+ Chapter12.GrapeEx4
 Chapter14/SteamExampls/SteamNote01.java
  Chapter14.SteamExampls.SteamNote01
 Chapter14/SteamExampls/StreamNote02.java
@@ -149,36 +182,9 @@ Chapter06/_4v/OverloadingTest.java
 Chapter09/CardToString2.java
  Chapter09.Card02
  Chapter09.CardToString2
-Chapter12/FruitBoxEx03.java
- Chapter12.AppleEx03
- Chapter12.ExBox3
- Chapter12.FruitBoxEx03
- Chapter12.FruitBoxExample03
- Chapter12.FruitEx03
- Chapter12.GrapeEx03
- Chapter12.Juice
- Chapter12.Juicer
-Chapter12/FruitBoxEx04.java
- Chapter12.AppleComp
- Chapter12.AppleEx4
- Chapter12.BoxEx4
- Chapter12.FruitBoxEx04
- Chapter12.FruitBoxEx4
- Chapter12.FruitComp
- Chapter12.FruitEx4
- Chapter12.GrapeComp
- Chapter12.GrapeEx4
-Chapter12/EnumsPractice/EnumEx1.java
- Chapter12.EnumsPractice.Direction
- Chapter12.EnumsPractice.EnumEx1
- Chapter12.EnumsPractice.EnumEx1$1
-Chapter12/EnumsPractice/EnumEx2.java
- Chapter12.EnumsPractice.DirectionEx02
- Chapter12.EnumsPractice.EnumEx2
-Chapter12/EnumsPractice/EnumEx3.java
- Chapter12.EnumsPractice.EnumEx3
- Chapter12.EnumsPractice.Transportation
- Chapter12.EnumsPractice.Transportation$1
- Chapter12.EnumsPractice.Transportation$2
- Chapter12.EnumsPractice.Transportation$3
- Chapter12.EnumsPractice.Transportation$4
+Chapter12/GenericExample/GenericNotepad.java
+ Chapter12.GenericExample.GenericNotepad
+ Chapter12.GenericExample.MyGenericBox
+Chapter12/GenericExample/GenericNotepad2.java
+ Chapter12.GenericExample.GenericNotepad2
+ Chapter12.GenericExample.GenericTest
