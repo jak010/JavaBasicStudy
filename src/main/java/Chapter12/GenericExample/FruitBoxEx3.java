@@ -2,6 +2,7 @@ package Chapter12.GenericExample;
 
 import java.util.ArrayList;
 
+// 1. 제네릭 클래스 선언
 class Box3<T> {
     ArrayList<T> list = new ArrayList<T>();
 
@@ -70,7 +71,8 @@ class Juicer {
     }
 }
 
-
+// 2. 와일드 카드의 상한 제한
+// Fruit 클래스를 상속받은 Apple, Grape 만 받을 수 있음
 class FruitBox3<T extends Fruit3> extends Box3<T> {};
 
 
@@ -82,9 +84,10 @@ public class FruitBoxEx3 {
 
         fruitbox.add(new Apple3());
         fruitbox.add(new Grape3());
+//        fruitbox.add(new Toy3()); // 3. Error
 
         applebox.add((new Apple3()));
-        applebox.add((new Apple3()));
+//        applebox.add((new Grape3())); 당연히 안됨, Apple3 타입만 받을 수 있으니께
 
         System.out.println(Juicer.makeJuice(fruitbox));
         System.out.println(Juicer.makeJuice(applebox));
