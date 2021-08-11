@@ -24,6 +24,9 @@ public class GenericNotepad {
         // 1. 제네릭 클래스 써먹기
         MyGenericBox<String> mb = new MyGenericBox<String>();
 
+        mb.setItem("abc");
+        System.out.println(mb.getItem());
+
         // 2.
         // Q) 제네릭 클래스 타입을 지정하지 않고 사용하면 어떻게 되나?
         // A) unchecked or unsafe operations.
@@ -32,11 +35,7 @@ public class GenericNotepad {
         // A) 제네릭은 java 1.5 이후 등장함, 이전 코드와 호환을 위함
         MyGenericBox mb2 = new MyGenericBox();
 
-
-        mb.setItem("abc");
-        System.out.println(mb.getItem());
-
-        mb2.setItem("abc");
+        mb2.setItem("abc"); // Warning
         System.out.println(mb2.getItem());
 
     }

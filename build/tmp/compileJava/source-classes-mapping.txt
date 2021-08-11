@@ -47,8 +47,14 @@ Chapter12/GenericExample/FruitBoxEx1.java
  Chapter12.GenericExample.Toy
 Chapter06/_6v/StaticBlockTest.java
  Chapter06._6v.StaticBlockTest
+Chapter12/AnnotationEx/AnnotationEx2.java
+ Chapter12.AnnotationEx.AnnotationEx2
+ Chapter12.AnnotationEx.NewClass
 Chapter10/CalendarEx1.java
  Chapter10.CalendarEx1
+Chapter09/CloneEx1.java
+ Chapter09.CloneEx1
+ Chapter09.Point
 Chapter12/EnumsPractice/EnumEx1.java
  Chapter12.EnumsPractice.Direction
  Chapter12.EnumsPractice.EnumEx1
@@ -112,9 +118,14 @@ Chapter06/_6v/DocumentTest.java
 Chapter06/_3v9/ReferenceReturnEx.java
  main.java.Chapter06._3v9.Data
  main.java.Chapter06._3v9.ReferenceReturnEx
-Chapter09/CloneEx1.java
- Chapter09.CloneEx1
- Chapter09.Point
+Chapter12/GenericExample/GenericMethodExample.java
+ Chapter12.GenericExample.A
+ Chapter12.GenericExample.B
+ Chapter12.GenericExample.C
+ Chapter12.GenericExample.GenericMethodExample
+ Chapter12.GenericExample.List
+ Chapter12.GenericExample.Sample
+ Chapter12.GenericExample.myBox
 Chapter12/GenericExample/FruitBoxEx3.java
  Chapter12.GenericExample.Apple3
  Chapter12.GenericExample.Box3
@@ -124,6 +135,10 @@ Chapter12/GenericExample/FruitBoxEx3.java
  Chapter12.GenericExample.Grape3
  Chapter12.GenericExample.Juice
  Chapter12.GenericExample.Juicer
+Chapter12/AnnotationEx/AnnotationEx01.java
+ Chapter12.AnnotationEx.AnnotationEx01
+ Chapter12.AnnotationEx.Child
+ Chapter12.AnnotationEx.Parent
 Chapter12/EnumsPractice/EnumEx3.java
  Chapter12.EnumsPractice.EnumEx3
  Chapter12.EnumsPractice.Transportation
@@ -190,6 +205,9 @@ Example/Notepad.java
  Example.Child
  Example.Notepad
  Example.Parent
+Chapter12/GenericExample/GenericTypeConverEx01.java
+ Chapter12.GenericExample.Box5
+ Chapter12.GenericExample.GenericTypeConverEx01
 Chapter12/FruitBoxEx04.java
  Chapter12.AppleComp
  Chapter12.AppleEx4
@@ -204,6 +222,9 @@ Chapter14/SteamExampls/SteamNote01.java
  Chapter14.SteamExampls.SteamNote01
 Chapter14/SteamExampls/StreamNote02.java
  Chapter14.SteamExampls.StreamNote02
+Chapter12/AnnotationEx/AnnotationEx3.java
+ Chapter12.AnnotationEx.AnnotationEx3
+ Chapter12.AnnotationEx.NewClass2
 Chapter14/LambdaEx6.java
  Chapter14.LambdaEx6
 Chapter06/_2v/TvTesst.java
@@ -227,11 +248,6 @@ Chapter06/_4v/OverloadingTest.java
 Chapter09/CardToString2.java
  Chapter09.Card02
  Chapter09.CardToString2
-Chapter12/GenericExample/GenericMethodExample.java
- Chapter12.GenericExample.A
- Chapter12.GenericExample.B
- Chapter12.GenericExample.C
- Chapter12.GenericExample.GenericMethodExample
- Chapter12.GenericExample.List
- Chapter12.GenericExample.Sample
- Chapter12.GenericExample.myBox
+Chapter12/AnnotationEx/AnnotationEx5.java
+ Chapter12.AnnotationEx.AnnotationEx5
+ Chapter12.AnnotationEx.TestInfo
