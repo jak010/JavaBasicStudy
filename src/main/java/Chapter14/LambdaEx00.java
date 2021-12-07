@@ -2,6 +2,7 @@ package Chapter14;
 
 @FunctionalInterface
 interface MyFunction {
+
     int max(int a, int b);
 }
 
@@ -24,11 +25,8 @@ public class LambdaEx00 {
 //      CASE 03: 타입 추론이 가능하다면 타입을 명시할 필요가 없음
         MyFunction f3 = (a, b) -> a * b;
 
-
         System.out.println(f.max(1, 2));
-
         System.out.println(f2.max(5, 4));
-
         System.out.println(f3.max(2, 2));
 
     }
